@@ -1,7 +1,7 @@
 
-# 🏥 SIREC - Sistema de Registro de Citas Médicas
+# 🏥 CODE - Sistema de Registro de Citas Médicas
 
-SIREC es una aplicación web completa que permite a pacientes, médicos y administradores gestionar citas médicas. El sistema está construido con **Angular** para el frontend y **ASP.NET Core + Entity Framework + SQL Server** en el backend.
+CODE es una aplicación web completa que permite a pacientes, médicos y administradores gestionar citas médicas. El sistema está construido con **Angular** para el frontend y **ASP.NET Core + Entity Framework + SQL Server** en el backend.
 
 ---
 
@@ -35,7 +35,7 @@ SIREC es una aplicación web completa que permite a pacientes, médicos y admini
 ## 📁 Estructura del Proyecto
 
 ```
-SIREC/
+CODE/
 ├── sirec-frontend/      → Proyecto Angular
 └── sirec-backend/       → Proyecto ASP.NET Core Web API
 ```
@@ -53,7 +53,7 @@ SIREC/
 ### Instrucciones
 
 1. Clona el repositorio:
-   git clone https://github.com/<TU_USUARIO>/sirec.git
+   git clone https://github.com/<TU_USUARIO>/CODE.git
 
 2. Configura el backend:
    - Crea la base de datos en SQL Server.
@@ -76,8 +76,8 @@ SIREC/
 
 ## 🧪 Créditos
 
-Desarrollado por: Brian Morales, Maria Arrieta, Steven Fonseca
-Proyecto para: Programación 6 - UMCA
+Desarrollado por: Jose Pablo Mora Chinchilla, Moises Venegas Bonilla, Steven Fonseca, Jonathan Coronado Leon, Leyner Bermudez Guevara
+Proyecto para: Ingenieria Sofware - UMCA
 Año: 2025
 
 ---
